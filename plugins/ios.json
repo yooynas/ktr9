@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"config.xml":{"/*":{"<feature name=\"KeyboardToolbarRemover\"><param name=\"ios-package\" value=\"KeyboardToolbarRemover\" /></feature>":1}}},"installed_plugins":{"com.chariotsolutions.cordova.plugin.keyboard_toolbar_remover":{"PACKAGE_NAME":"com.example.ktr.issue9"}},"dependent_plugins":{}}

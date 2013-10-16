@@ -1,0 +1,1 @@
+Sample project to track down https://github.com/don/KeyboardToolbarRemover/issues/9
